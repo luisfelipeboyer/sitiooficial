@@ -1,0 +1,9 @@
+header {
+   display: flex;
+}
+.lado_izquierdo {
+    flex: 1;
+}
+.lado_derecho{
+    flex: 1;
+}
